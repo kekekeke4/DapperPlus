@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ZeeShine.Data.Session;
+using ZeeShine.Data.Statement;
 
 namespace ZeeShine.Data.Executor
 {
@@ -9,5 +11,8 @@ namespace ZeeShine.Data.Executor
     /// </summary>
     public interface IExecuteContext
     {
+        ISession Session { get; set; }
+
+        IStatement Statement { get; set; }
     }
 }
