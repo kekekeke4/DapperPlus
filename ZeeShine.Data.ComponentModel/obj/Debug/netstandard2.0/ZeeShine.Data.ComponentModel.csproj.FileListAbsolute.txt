@@ -1,0 +1,9 @@
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\bin\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.deps.json
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\bin\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.dll
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\bin\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.pdb
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\obj\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.csprojResolveAssemblyReference.cache
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\obj\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.csproj.CoreCompileInputs.cache
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\obj\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.AssemblyInfoInputs.cache
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\obj\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.AssemblyInfo.cs
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\obj\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.dll
+F:\vue_study\DapperPlus\ZeeShine.Data.ComponentModel\obj\Debug\netstandard2.0\ZeeShine.Data.ComponentModel.pdb
