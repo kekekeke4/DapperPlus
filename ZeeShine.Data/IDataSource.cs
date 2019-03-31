@@ -20,6 +20,12 @@ namespace ZeeShine.Data
         /// 获取会话
         /// </summary>
         /// <returns></returns>
-        ISession GetSession();
+        ISession Fork();
+
+        /// <summary>
+        /// 回收会话
+        /// </summary>
+        /// <param name="session"></param>
+        void Recycle(ISession session);
     }
 }

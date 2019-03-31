@@ -5,7 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Expression\" />
+    <Compile Remove="Expression\**" />
+    <EmbeddedResource Remove="Expression\**" />
+    <None Remove="Expression\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZeeShine.Data.ComponentModel\ZeeShine.Data.ComponentModel.csproj" />
   </ItemGroup>
 
 </Project>

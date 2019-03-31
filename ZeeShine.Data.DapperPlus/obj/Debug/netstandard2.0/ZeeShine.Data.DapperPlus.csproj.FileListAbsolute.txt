@@ -1,0 +1,8 @@
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\bin\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.deps.json
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\bin\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.dll
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\bin\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.pdb
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\obj\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.csproj.CoreCompileInputs.cache
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\obj\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.AssemblyInfoInputs.cache
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\obj\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.AssemblyInfo.cs
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\obj\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.dll
+F:\vue_study\DapperPlus\ZeeShine.Data.DapperPlus\obj\Debug\netstandard2.0\ZeeShine.Data.DapperPlus.pdb

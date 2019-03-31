@@ -7,7 +7,7 @@ namespace ZeeShine.Data.Session
     /// <summary>
     /// 会话接口
     /// </summary>
-    public interface ISession:IDisposable
+    public interface ISession
     {
         /// <summary>
         /// 获取会话适配器

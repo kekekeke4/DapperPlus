@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using ZeeShine.Data.ComponentModel;
 using ZeeShine.Data.Statement;
+using ZeeShine.Data.Uow;
 
 namespace ZeeShine.Data
 {
@@ -11,6 +13,15 @@ namespace ZeeShine.Data
         /// 获取或设置数据源
         /// </summary>
         IDataSource DataSource
+        {
+            get;
+            set;
+        }
+
+        /// <summary>
+        /// 获取或设置Uow管理类
+        /// </summary>
+        IUnitOfWorkManager UnitOfWorkManager
         {
             get;
             set;
@@ -35,7 +46,7 @@ namespace ZeeShine.Data
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <returns></returns>
-        Task<object> SelectPageAsync<T>(IStatement statement, params object[] parameters);
+        Task<Pagination<T>> SelectPageAsync<T>(IStatement statement, params object[] parameters);
 
         /// <summary>
         /// 删除
@@ -74,7 +85,7 @@ namespace ZeeShine.Data
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <returns></returns>
-        object SelectPage<T>(IStatement statement, params object[] parameters);
+        Pagination<T> SelectPage<T>(IStatement statement, params object[] parameters);
 
         /// <summary>
         /// 删除
