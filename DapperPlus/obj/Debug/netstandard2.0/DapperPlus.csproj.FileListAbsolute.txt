@@ -1,0 +1,4 @@
+C:\work\project\DapperPlus\DapperPlus\obj\Debug\netstandard2.0\DapperPlus.csprojAssemblyReference.cache
+C:\work\project\DapperPlus\DapperPlus\obj\Debug\netstandard2.0\DapperPlus.csproj.CoreCompileInputs.cache
+C:\work\project\DapperPlus\DapperPlus\obj\Debug\netstandard2.0\DapperPlus.AssemblyInfoInputs.cache
+C:\work\project\DapperPlus\DapperPlus\obj\Debug\netstandard2.0\DapperPlus.AssemblyInfo.cs

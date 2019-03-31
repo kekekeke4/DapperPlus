@@ -1,0 +1,13 @@
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.deps.json
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.runtimeconfig.json
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.runtimeconfig.dev.json
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.dll
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.pdb
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.2\Linq2Db.dll
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.2\Linq2Db.pdb
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.csprojResolveAssemblyReference.cache
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.csproj.CoreCompileInputs.cache
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.AssemblyInfoInputs.cache
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.AssemblyInfo.cs
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.dll
+F:\vue_study\DapperLinq\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.2\ConsoleApp1Linq2DB.pdb

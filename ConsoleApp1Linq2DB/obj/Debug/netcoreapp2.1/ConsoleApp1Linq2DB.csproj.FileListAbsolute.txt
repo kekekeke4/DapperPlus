@@ -1,0 +1,14 @@
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.deps.json
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.runtimeconfig.json
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.runtimeconfig.dev.json
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.dll
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.pdb
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.1\Linq2Db.dll
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\bin\Debug\netcoreapp2.1\Linq2Db.pdb
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.csprojAssemblyReference.cache
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.csproj.CoreCompileInputs.cache
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.AssemblyInfoInputs.cache
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.AssemblyInfo.cs
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.csproj.CopyComplete
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.dll
+C:\work\project\DapperPlus\ConsoleApp1Linq2DB\obj\Debug\netcoreapp2.1\ConsoleApp1Linq2DB.pdb

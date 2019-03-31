@@ -1,0 +1,80 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Dapper.Linq</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Compatibility\**" />
+    <Compile Remove="DataProvider\Access\**" />
+    <Compile Remove="DataProvider\DB2\**" />
+    <Compile Remove="DataProvider\Firebird\**" />
+    <Compile Remove="DataProvider\Informix\**" />
+    <Compile Remove="DataProvider\MySql\**" />
+    <Compile Remove="DataProvider\Oracle\**" />
+    <Compile Remove="DataProvider\PostgreSQL\**" />
+    <Compile Remove="DataProvider\SapHana\**" />
+    <Compile Remove="DataProvider\SqlCe\**" />
+    <Compile Remove="DataProvider\Sybase\**" />
+    <Compile Remove="Node\**" />
+    <Compile Remove="ServiceModel\**" />
+    <Compile Remove="Visitor\**" />
+    <EmbeddedResource Remove="Compatibility\**" />
+    <EmbeddedResource Remove="DataProvider\Access\**" />
+    <EmbeddedResource Remove="DataProvider\DB2\**" />
+    <EmbeddedResource Remove="DataProvider\Firebird\**" />
+    <EmbeddedResource Remove="DataProvider\Informix\**" />
+    <EmbeddedResource Remove="DataProvider\MySql\**" />
+    <EmbeddedResource Remove="DataProvider\Oracle\**" />
+    <EmbeddedResource Remove="DataProvider\PostgreSQL\**" />
+    <EmbeddedResource Remove="DataProvider\SapHana\**" />
+    <EmbeddedResource Remove="DataProvider\SqlCe\**" />
+    <EmbeddedResource Remove="DataProvider\Sybase\**" />
+    <EmbeddedResource Remove="Node\**" />
+    <EmbeddedResource Remove="ServiceModel\**" />
+    <EmbeddedResource Remove="Visitor\**" />
+    <None Remove="Compatibility\**" />
+    <None Remove="DataProvider\Access\**" />
+    <None Remove="DataProvider\DB2\**" />
+    <None Remove="DataProvider\Firebird\**" />
+    <None Remove="DataProvider\Informix\**" />
+    <None Remove="DataProvider\MySql\**" />
+    <None Remove="DataProvider\Oracle\**" />
+    <None Remove="DataProvider\PostgreSQL\**" />
+    <None Remove="DataProvider\SapHana\**" />
+    <None Remove="DataProvider\SqlCe\**" />
+    <None Remove="DataProvider\Sybase\**" />
+    <None Remove="Node\**" />
+    <None Remove="ServiceModel\**" />
+    <None Remove="Visitor\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="SqlParameter.cs" />
+    <Compile Remove="SqlStatement.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Compatibility\System\Data\DataRowExtensions.cs" />
+    <Compile Include="Compatibility\System\Data\DataTableExtensions.cs" />
+    <Compile Include="Compatibility\System\Data\Linq\Binary.cs" />
+    <Compile Include="Compatibility\System\Threading\Tasks\TaskEx.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="SqlQuery\ReservedWords.txt" />
+    <EmbeddedResource Include="SqlQuery\ReservedWordsFirebird.txt" />
+    <EmbeddedResource Include="SqlQuery\ReservedWordsOracle.txt" />
+    <EmbeddedResource Include="SqlQuery\ReservedWordsPostgres.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+</Project>
